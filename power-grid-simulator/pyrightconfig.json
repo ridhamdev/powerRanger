@@ -1,0 +1,20 @@
+{
+  "executionEnvironments": [
+    {
+      "root": "power-grid-simulator/backend",
+      "extraPaths": [
+        "power-grid-simulator/backend"
+      ]
+    },
+    {
+      "root": ".",
+      "extraPaths": [
+        "power-grid-simulator/backend"
+      ]
+    }
+  ],
+  "extraPaths": [
+    "power-grid-simulator/backend",
+    "./power-grid-simulator/backend"
+  ]
+}
